@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 **Hey, I'm Haidar**<br><br>`Informatics Student` • `Web Developer` • `Tech Enthusiast`<br><br>> *Building things. Breaking things. Learning how they work.*<br><br>💻 **Currently exploring**<br>`HTML` `CSS` `JavaScript` `React` `Python` `SQL` `AI` `Automation`<br><br>🚀 **What I do**<br><br>* Build real-world projects<br>* Explore web development & AI<br>* Learn by building, testing, and improving<br>* Turn ideas into something useful<br><br>```<br>learning → building → breaking → fixing → improving<br>```<br><br><br>⭐ *Thanks for visiting my profile.*<br>
+👋 **Hey, I'm Haidar**<br><br>`Informatics Student` • `Web Developer` • `Tech Enthusiast`<br><br>> *Building things. Breaking things. Learning how they work.*<br>
 
 
 ## 🌐 Socials:
