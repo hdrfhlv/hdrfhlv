@@ -68,18 +68,6 @@ I'm passionate about learning how data can be transformed into meaningful insigh
 - Computer Vision
 - Python for Data Science
 
-##  Featured Projects
-
-### Iris Flower Species Classification
-
-A Machine Learning classification project using the K-Nearest Neighbors (KNN) algorithm to predict Iris flower species based on their measurements.
-
-**Technologies:** Python, Scikit-learn, Pandas, NumPy
-
-**Model Accuracy:** 97.5%
-
----
-
 ##  Connect With Me
 
 <p>
